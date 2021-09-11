@@ -60,4 +60,4 @@ The website’s back-end uses a hybrid REST API + GraphQL model. The REST API en
 ![Staff Individual Grade View](screenshots/16_StaffGradesIndividual.jpg)
 
 ### Staff Enrol students from a master list
-![Staff Enrol students from a master list](screenshots/17_Enrol from List.jpg)
+![Staff Enrol students from a master list](screenshots/17_EnrolFromList.jpg)
