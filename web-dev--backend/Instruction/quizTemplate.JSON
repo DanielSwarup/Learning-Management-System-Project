@@ -1,0 +1,22 @@
+
+[
+	{
+		"questionType": "FIB",
+		"question":"Why did the chicken cross the road",
+		"answer":"Que Ota",
+		"wrongAnswers":["Okay Boomer","Okay Boomer","Okay Boomer"]
+
+	},
+	{
+		"questionType": "BOL",
+		"question":"Why did the chicken cross the road",
+		"answer":"Que Ota",
+		"wrongAnswers":["Okay Boomer","Okay Boomer","Okay Boomer"]
+	},
+	{
+		"questionType": "MCQ",
+		"question":"Why did the chicken cross the road",
+		"answer":"Que Ota",
+		"wrongAnswers":["Okay Boomer","Okay Boomer","Okay Boomer"]
+	}
+]

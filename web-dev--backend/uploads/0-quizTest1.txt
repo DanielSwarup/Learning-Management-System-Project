@@ -1,0 +1,19 @@
+<quiz>
+<FIB>
+	<question> Why did the chicken cross the road </question>
+	<answer> Que Ota </answer>
+</FIB>
+<BOL>
+	<question> Why did the chicken cross the road </question>
+	<answer> true </answer>
+</FIB>
+<MCQ>
+	<question> Why did the chicken cross the road </question>
+	<answer> true </answer>
+	<option>Okay Boomer</option>
+	<option>Okay Boomer</option>
+	<option>Okay Boomer</option>
+	
+</MCQ>
+
+</quiz>
