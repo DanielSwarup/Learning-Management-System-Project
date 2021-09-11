@@ -10,7 +10,54 @@ The website’s back-end uses a hybrid REST API + GraphQL model. The REST API en
 
 \* Blurb above has been taken directly from my coursework submission.
 
-## Screenshots
+## Screenshots 
+### Landing Page
+![Landing Page](screenshots/01_Landing.jpg)
 
-![Landing page](screenshots/01_Landing.jpg)
+### Landing Page Section 2
+![Landing Page Section 2](screenshots/02_Landing.jpg)
 
+### Login 
+![Login Page](screenshots/03_Login.jpg)
+
+### Register
+![Register Page](screenshots/04_Register.jpg)
+
+### Student Dashboard
+![Student Dashboard](screenshots/05_StudentDashboard.jpg)
+
+### Student Grades
+![Student Grades](screenshots/06_StudentGrades.jpg)
+
+### Student Course
+![Student Course](screenshots/07_StudentCourse.jpg)
+
+### Student Quiz
+![Student Quiz](screenshots/08_StudentQuiz.jpg)
+
+### Staff Dashboard
+![Staff Dashboard](screenshots/09_StaffDashboard.jpg)
+
+### Staff Manage Page
+![Staff Manage Page](screenshots/10_StaffManage.jpg)
+
+### Staff Tutor Approval Widget
+![Staff Tutor Approval Widget](screenshots/11_StaffManageTutorApproveWidget.jpg)
+
+### Staff Course
+![Staff Course](screenshots/12_StaffCourse.jpg)
+
+### Staff Course Approval Widget
+![Staff Course Approve](screenshots/13_StaffCourseApprove.jpg)
+
+### Staff Quiz Upload Widget
+![Staff Quiz Upload](screenshots/14_StaffUploadQuiz.jpg)
+
+### Staff Grades Overview 
+![Staff Grades Overview ](screenshots/15_StaffGrades.jpg)
+
+### Staff Individual Grade View
+![Staff Individual Grade View](screenshots/16_StaffGradesIndividual.jpg)
+
+### Staff Enrol students from a master list
+![Staff Enrol students from a master list](screenshots/17_Enrol from List.jpg)
